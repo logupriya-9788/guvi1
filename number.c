@@ -15,6 +15,5 @@ int main(void) {
 	{
 		printf("Negative");
 	}
-	// your code goes here
 	return 0;
 }
